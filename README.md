@@ -1,5 +1,9 @@
 # series
 
+<p align="center">
+  <img src=".github/logo.png" alt="series logo" width="128" />
+</p>
+
 A PHP command-line tool for keeping a TV series library up to date.
 
 ## What it does
